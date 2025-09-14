@@ -18,10 +18,6 @@ admin:
   css: "admin/admin.style.css"
   wrapper: ""
 
-dashboard:
-  wrapper: ""
-  css: "client/client.style.css"
-
 data:
   directory: ""
   public: ""
